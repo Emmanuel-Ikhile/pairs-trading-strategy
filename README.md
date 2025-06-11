@@ -1,4 +1,4 @@
-**📈 Volatility-Driven Pairs Trading Strategy: AAPL vs. MSFT**
+** Volatility-Driven Pairs Trading Strategy: AAPL vs. MSFT**
 A Python Data Analysis Project by Emmanuel IKHILE
 
 🔍 A complete data analysis pipeline from raw stock data to a backtested trading strategy, focusing on volatility patterns and statistical arbitrage opportunities between Apple and Microsoft.
